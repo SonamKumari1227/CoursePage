@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+#maindiv:hover{
+  background-color: crimson;
+}
